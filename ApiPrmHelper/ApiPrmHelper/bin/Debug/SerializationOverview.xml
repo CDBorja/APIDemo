@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <json>{
+    "CodApp":"SECAPI29112019021128",
+    "Payload":" eyAgICANCiAgICAiQ29kX0NsaWVudGUiOiAxMjM0NSwNCiAgICAiSWRfTWFxdWluYSI6IDEgICANCn0="
+}
+</json>
+  <key>SECAPI29112019021128OTjPyGYKYMSE</key>
+</Book>

@@ -1,0 +1,37 @@
+D:\HD2Shared\SampleProjects\TestProjects\ApiPrmHelper\ApiPrmHelper\bin\Debug\ApiPrmHelper.exe.config
+D:\HD2Shared\SampleProjects\TestProjects\ApiPrmHelper\ApiPrmHelper\bin\Debug\ApiPrmHelper.exe
+D:\HD2Shared\SampleProjects\TestProjects\ApiPrmHelper\ApiPrmHelper\bin\Debug\ApiPrmHelper.pdb
+D:\HD2Shared\SampleProjects\TestProjects\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.csprojAssemblyReference.cache
+D:\HD2Shared\SampleProjects\TestProjects\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.Form1.resources
+D:\HD2Shared\SampleProjects\TestProjects\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.Properties.Resources.resources
+D:\HD2Shared\SampleProjects\TestProjects\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.csproj.GenerateResource.cache
+D:\HD2Shared\SampleProjects\TestProjects\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.csproj.CoreCompileInputs.cache
+D:\HD2Shared\SampleProjects\TestProjects\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.exe
+D:\HD2Shared\SampleProjects\TestProjects\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.pdb
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\bin\Debug\ApiPrmHelper.exe.config
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\bin\Debug\ApiPrmHelper.exe
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\bin\Debug\ApiPrmHelper.pdb
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\bin\Debug\en-US\ApiPrmHelper.resources.dll
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.frmMain.resources
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.frmAbout.resources
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.Properties.Resources.resources
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.frmAbout.en-US.resources
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.csproj.GenerateResource.cache
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\obj\Debug\en-US\ApiPrmHelper.resources.dll
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.exe
+C:\Users\Edwin Ramirez\Documents\Forza Systems PM\Mis Proyectos\Integracion Black Umbrella\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.pdb
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\bin\Debug\ApiPrmHelper.exe.config
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\bin\Debug\ApiPrmHelper.exe
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\bin\Debug\ApiPrmHelper.pdb
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\bin\Debug\en-US\ApiPrmHelper.resources.dll
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.csprojAssemblyReference.cache
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.frmMain.resources
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.frmAbout.resources
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.Properties.Resources.resources
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.frmAbout.en-US.resources
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.csproj.GenerateResource.cache
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.csproj.CoreCompileInputs.cache
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\obj\Debug\en-US\ApiPrmHelper.resources.dll
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.exe
+C:\MyCodeGit\demo-denarius-security-cryptography\ApiPrmHelper\ApiPrmHelper\obj\Debug\ApiPrmHelper.pdb
